@@ -1,0 +1,27 @@
+POST http://localhost:8000/
+Content-Type: application/json
+
+{
+    "name":"Akash",
+    "email":"aasdsdk@gmail.com",
+    "address":"shahjahanpur"
+}
+
+
+###
+POST http://localhost:8000/tfetch
+Content-Type: application/json
+
+{
+    "companyName":"Bluedart"
+}
+
+
+###
+POST http://localhost:8000/mfetch
+Content-Type: application/json
+
+
+
+
+
